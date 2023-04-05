@@ -1,4 +1,4 @@
-## Oi, eu sou a latte nim!☕
+## Oi, eu sou a latte nim! ☕
 
 * ⏳ Eu sou **licenciada em História**.
 * 🚀 Atualmente sou **aluna da Rocketseat**.
