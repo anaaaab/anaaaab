@@ -1,8 +1,9 @@
 ## Oi, eu sou a latte nim! ☕
+![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 * ⏳ Eu sou **licenciada em História**.
 * 🚀 Atualmente sou **aluna da Rocketseat**.
-* 🌱 Estou engatinhando e aprendendo **HTML e CSS**.
+* 🌱 Estou engatinhando e aprendendo **HTML, CSS** e **JavaScript**.
 * ⛏️ Antes de começar a faculdade, eu pensava que seria uma **Arqueóloga**.
 * 💻 Agora eu sou **viciada em codar**. 
 * 🌎 Sou **latino-americana**.
