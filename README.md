@@ -1,5 +1,4 @@
-## Oi, eu sou a latte nim! ☕
-![mario coding](https://i.imgur.com/1ZvVkDc.gif)
+## Oi, eu sou a ana! ☕
 
 * ⏳ Eu sou **licenciada em História**.
 * 🚀 Atualmente sou **aluna da Rocketseat**.
@@ -7,7 +6,6 @@
 * ⛏️ Antes de começar a faculdade, eu pensava que seria uma **Arqueóloga**.
 * 💻 Agora eu sou **viciada em codar**. 
 * 🌎 Sou **latino-americana**.
-* 🧁 Gosto de **K-pop, de doces e da cor rosa**.
 * 💡 Adoro **aprender coisas novas**.
 
 <div align="center">
