@@ -1,5 +1,7 @@
 ## Oi, eu sou a ana! ☕
 
+![mario coding](https://i.imgur.com/1ZvVkDc.gif)
+
 * ⏳ Eu sou **licenciada em História**.
 * 🚀 Atualmente sou **aluna da Rocketseat**.
 * 🌱 Estou engatinhando e aprendendo **HTML, CSS** e **JavaScript**.
