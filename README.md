@@ -1,14 +1,14 @@
-## Oi, eu sou a ana! ☕
+## Hi Devs, I'm Ana! 🐝
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
-* ⏳ Eu sou **licenciada em História**.
-* 🚀 Atualmente sou **aluna da Rocketseat**.
-* 🌱 Estou engatinhando e aprendendo **HTML, CSS** e **JavaScript**.
-* ⛏️ Antes de começar a faculdade, eu pensava que seria uma **Arqueóloga**.
-* 💻 Agora eu sou **viciada em codar**. 
-* 🌎 Sou **latino-americana**.
-* 💡 Adoro **aprender coisas novas**.
+* ⏳ I hold a **degree in History**.
+* 🚀 Currently, I'm a **student at Rocketseat**.
+* 🌱 I'm just starting out and learning **HTML**, **CSS**, and **JavaScript**.
+* ⛏️ Before starting college, I used to think I would become an **Archaeologist**.
+* 💻 Now I'm **addicted to coding**. 
+* 🌎 I'm **Latin American**.
+* 💡 I love **learning new things**.
 
 <div align="center">
 <div style="display: inline_block"><br>
