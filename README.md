@@ -2,13 +2,13 @@
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
-* ⏳ I hold a **degree in History**.
+* ⏳ I have a **degree in History**.
 * 🚀 Currently, I'm a **student at Rocketseat**.
 * 🌱 I'm just starting out and learning **HTML**, **CSS**, and **JavaScript**.
-* ⛏️ Before starting college, I used to think I would become an **Archaeologist**.
-* 💻 Now I'm **addicted to coding**. 
+* ⛏️ Before starting college, I used to dream of becoming an **Archaeologist**.
+* 💻 Now, **coding** has become my addiction.
 * 🌎 I'm **Latin American**.
-* 💡 I love **learning new things**.
+* 💡 I'm always eager to **learn new things**.
 
 <div align="center">
 <div style="display: inline_block"><br>
